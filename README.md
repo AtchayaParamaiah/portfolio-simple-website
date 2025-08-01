@@ -28,4 +28,4 @@ It's a beginner-friendly project with a focus on structure, layout, and basic st
 
 To view the project:
 
-[link]
+ https://atchayaparamaiah.github.io/portfolio-simple-website/
